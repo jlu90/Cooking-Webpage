@@ -1,0 +1,46 @@
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h4{
+    text-decoration: underline;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+center{
+    font-family: Helvetica;
+}
+
+.food-yellow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 5px solid #ffbd59;
+}
+
+.caption{
+    text-align: center;
+    color: black;
+    font-family: Helvetica;
+}
+
+.heart{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 2%;
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ff6260;
+    font-family: Helvetica;
+    color: white;
+}
